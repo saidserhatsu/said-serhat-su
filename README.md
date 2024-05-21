@@ -1,5 +1,5 @@
 <!-- https://github.com/saidserhatsu/ -->
-<!-- April 15, 2021 -->
+<!-- May 21, 2024 -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 
@@ -7,7 +7,7 @@
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Serhat</a></b>
+                <b><a target="_blank" href="https://saidserhatsu.github.io/">Serhat</a></b>
         </samp>
 </h3>
 <br>
